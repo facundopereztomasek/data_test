@@ -1,0 +1,1229 @@
+{
+   "paises":[
+      {
+         "nombre":"Austria",
+         "continente":"Unión Europea",
+         "codigo_numerico":102
+      },
+      {
+         "nombre":"Belgica",
+         "continente":"Unión Europea",
+         "codigo_numerico":103
+      },
+      {
+         "nombre":"Bulgaria",
+         "continente":"Unión Europea",
+         "codigo_numerico":104
+      },
+      {
+         "nombre":"Chipre",
+         "continente":"Unión Europea",
+         "codigo_numerico":106
+      },
+      {
+         "nombre":"Dinamarca",
+         "continente":"Unión Europea",
+         "codigo_numerico":107
+      },
+      {
+         "nombre":"España",
+         "continente":"Unión Europea",
+         "codigo_numerico":108
+      },
+      {
+         "nombre":"Finlandia",
+         "continente":"Unión Europea",
+         "codigo_numerico":109
+      },
+      {
+         "nombre":"Francia",
+         "continente":"Unión Europea",
+         "codigo_numerico":110
+      },
+      {
+         "nombre":"Grecia",
+         "continente":"Unión Europea",
+         "codigo_numerico":111
+      },
+      {
+         "nombre":"Hungria",
+         "continente":"Unión Europea",
+         "codigo_numerico":112
+      },
+      {
+         "nombre":"Irlanda",
+         "continente":"Unión Europea",
+         "codigo_numerico":113
+      },
+      {
+         "nombre":"Italia",
+         "continente":"Unión Europea",
+         "codigo_numerico":115
+      },
+      {
+         "nombre":"Luxemburgo",
+         "continente":"Unión Europea",
+         "codigo_numerico":117
+      },
+      {
+         "nombre":"Malta",
+         "continente":"Unión Europea",
+         "codigo_numerico":118
+      },
+      {
+         "nombre":"Paises Bajos",
+         "continente":"Unión Europea",
+         "codigo_numerico":121
+      },
+      {
+         "nombre":"Polonia",
+         "continente":"Unión Europea",
+         "codigo_numerico":122
+      },
+      {
+         "nombre":"Portugal",
+         "continente":"Unión Europea",
+         "codigo_numerico":123
+      },
+      {
+         "nombre":"Reino Unido",
+         "continente":"Unión Europea",
+         "codigo_numerico":125
+      },
+      {
+         "nombre":"Alemania",
+         "continente":"Unión Europea",
+         "codigo_numerico":126
+      },
+      {
+         "nombre":"Rumania",
+         "continente":"Unión Europea",
+         "codigo_numerico":128
+      },
+      {
+         "nombre":"Suecia",
+         "continente":"Unión Europea",
+         "codigo_numerico":131
+      },
+      {
+         "nombre":"Letonia",
+         "continente":"Unión Europea",
+         "codigo_numerico":136
+      },
+      {
+         "nombre":"Estonia",
+         "continente":"Unión Europea",
+         "codigo_numerico":141
+      },
+      {
+         "nombre":"Lituania",
+         "continente":"Unión Europea",
+         "codigo_numerico":142
+      },
+      {
+         "nombre":"Republica Checa",
+         "continente":"Unión Europea",
+         "codigo_numerico":143
+      },
+      {
+         "nombre":"Republica Eslovaca",
+         "continente":"Unión Europea",
+         "codigo_numerico":144
+      },
+      {
+         "nombre":"Eslovenia",
+         "continente":"Unión Europea",
+         "codigo_numerico":147
+      },
+      {
+         "nombre":"Otros Paises O Territorios De La Union Europea",
+         "continente":"Unión Europea",
+         "codigo_numerico":198
+      },
+      {
+         "nombre":"Albania",
+         "continente":"Resto De Europa",
+         "codigo_numerico":101
+      },
+      {
+         "nombre":"Islandia",
+         "continente":"Resto De Europa",
+         "codigo_numerico":114
+      },
+      {
+         "nombre":"Liechtenstein",
+         "continente":"Resto De Europa",
+         "codigo_numerico":116
+      },
+      {
+         "nombre":"Monaco",
+         "continente":"Resto De Europa",
+         "codigo_numerico":119
+      },
+      {
+         "nombre":"Noruega",
+         "continente":"Resto De Europa",
+         "codigo_numerico":120
+      },
+      {
+         "nombre":"Andorra",
+         "continente":"Resto De Europa",
+         "codigo_numerico":124
+      },
+      {
+         "nombre":"San Marino",
+         "continente":"Resto De Europa",
+         "codigo_numerico":129
+      },
+      {
+         "nombre":"Santa Sede",
+         "continente":"Resto De Europa",
+         "codigo_numerico":130
+      },
+      {
+         "nombre":"Suiza",
+         "continente":"Resto De Europa",
+         "codigo_numerico":132
+      },
+      {
+         "nombre":"Ucrania",
+         "continente":"Resto De Europa",
+         "codigo_numerico":135
+      },
+      {
+         "nombre":"Moldavia",
+         "continente":"Resto De Europa",
+         "codigo_numerico":137
+      },
+      {
+         "nombre":"Belarus",
+         "continente":"Resto De Europa",
+         "codigo_numerico":138
+      },
+      {
+         "nombre":"Georgia",
+         "continente":"Resto De Europa",
+         "codigo_numerico":139
+      },
+      {
+         "nombre":"Bosnia Y Herzegovina",
+         "continente":"Resto De Europa",
+         "codigo_numerico":145
+      },
+      {
+         "nombre":"Croacia",
+         "continente":"Resto De Europa",
+         "codigo_numerico":146
+      },
+      {
+         "nombre":"Armenia",
+         "continente":"Resto De Europa",
+         "codigo_numerico":148
+      },
+      {
+         "nombre":"Rusia",
+         "continente":"Resto De Europa",
+         "codigo_numerico":154
+      },
+      {
+         "nombre":"Macedonia ",
+         "continente":"Resto De Europa",
+         "codigo_numerico":156
+      },
+      {
+         "nombre":"Serbia",
+         "continente":"Resto De Europa",
+         "codigo_numerico":157
+      },
+      {
+         "nombre":"Montenegro",
+         "continente":"Resto De Europa",
+         "codigo_numerico":158
+      },
+      {
+         "nombre":"Guernesey",
+         "continente":"Resto De Europa",
+         "codigo_numerico":170
+      },
+      {
+         "nombre":"Svalbard Y Jan Mayen",
+         "continente":"Resto De Europa",
+         "codigo_numerico":171
+      },
+      {
+         "nombre":"Islas Feroe",
+         "continente":"Resto De Europa",
+         "codigo_numerico":172
+      },
+      {
+         "nombre":"Isla De Man",
+         "continente":"Resto De Europa",
+         "codigo_numerico":173
+      },
+      {
+         "nombre":"Gibraltar",
+         "continente":"Resto De Europa",
+         "codigo_numerico":174
+      },
+      {
+         "nombre":"Islas Del Canal",
+         "continente":"Resto De Europa",
+         "codigo_numerico":175
+      },
+      {
+         "nombre":"Jersey",
+         "continente":"Resto De Europa",
+         "codigo_numerico":176
+      },
+      {
+         "nombre":"Islas Aland",
+         "continente":"Resto De Europa",
+         "codigo_numerico":177
+      },
+      {
+         "nombre":"Turquia",
+         "continente":"Resto De Europa",
+         "codigo_numerico":436
+      },
+      {
+         "nombre":"Otros Paises O Territorios Del Resto De Europa",
+         "continente":"Resto De Europa",
+         "codigo_numerico":199
+      },
+      {
+         "nombre":"Burkina Faso",
+         "continente":"África",
+         "codigo_numerico":201
+      },
+      {
+         "nombre":"Angola",
+         "continente":"África",
+         "codigo_numerico":202
+      },
+      {
+         "nombre":"Argelia",
+         "continente":"África",
+         "codigo_numerico":203
+      },
+      {
+         "nombre":"Benin",
+         "continente":"África",
+         "codigo_numerico":204
+      },
+      {
+         "nombre":"Botswana",
+         "continente":"África",
+         "codigo_numerico":205
+      },
+      {
+         "nombre":"Burundi",
+         "continente":"África",
+         "codigo_numerico":206
+      },
+      {
+         "nombre":"Cabo Verde",
+         "continente":"África",
+         "codigo_numerico":207
+      },
+      {
+         "nombre":"Camerun",
+         "continente":"África",
+         "codigo_numerico":208
+      },
+      {
+         "nombre":"Comores",
+         "continente":"África",
+         "codigo_numerico":209
+      },
+      {
+         "nombre":"Congo",
+         "continente":"África",
+         "codigo_numerico":210
+      },
+      {
+         "nombre":"Costa De Marfil",
+         "continente":"África",
+         "codigo_numerico":211
+      },
+      {
+         "nombre":"Djibouti",
+         "continente":"África",
+         "codigo_numerico":212
+      },
+      {
+         "nombre":"Egipto",
+         "continente":"África",
+         "codigo_numerico":213
+      },
+      {
+         "nombre":"Etiopia",
+         "continente":"África",
+         "codigo_numerico":214
+      },
+      {
+         "nombre":"Gabon",
+         "continente":"África",
+         "codigo_numerico":215
+      },
+      {
+         "nombre":"Gambia",
+         "continente":"África",
+         "codigo_numerico":216
+      },
+      {
+         "nombre":"Ghana",
+         "continente":"África",
+         "codigo_numerico":217
+      },
+      {
+         "nombre":"Guinea",
+         "continente":"África",
+         "codigo_numerico":218
+      },
+      {
+         "nombre":"Guinea-bissau",
+         "continente":"África",
+         "codigo_numerico":219
+      },
+      {
+         "nombre":"Guinea Ecuatorial",
+         "continente":"África",
+         "codigo_numerico":220
+      },
+      {
+         "nombre":"Kenia",
+         "continente":"África",
+         "codigo_numerico":221
+      },
+      {
+         "nombre":"Lesotho",
+         "continente":"África",
+         "codigo_numerico":222
+      },
+      {
+         "nombre":"Liberia",
+         "continente":"África",
+         "codigo_numerico":223
+      },
+      {
+         "nombre":"Libia",
+         "continente":"África",
+         "codigo_numerico":224
+      },
+      {
+         "nombre":"Madagascar",
+         "continente":"África",
+         "codigo_numerico":225
+      },
+      {
+         "nombre":"Malawi",
+         "continente":"África",
+         "codigo_numerico":226
+      },
+      {
+         "nombre":"Mali",
+         "continente":"África",
+         "codigo_numerico":227
+      },
+      {
+         "nombre":"Marruecos",
+         "continente":"África",
+         "codigo_numerico":228
+      },
+      {
+         "nombre":"Mauricio",
+         "continente":"África",
+         "codigo_numerico":229
+      },
+      {
+         "nombre":"Mauritania",
+         "continente":"África",
+         "codigo_numerico":230
+      },
+      {
+         "nombre":"Mozambique",
+         "continente":"África",
+         "codigo_numerico":231
+      },
+      {
+         "nombre":"Namibia",
+         "continente":"África",
+         "codigo_numerico":232
+      },
+      {
+         "nombre":"Niger",
+         "continente":"África",
+         "codigo_numerico":233
+      },
+      {
+         "nombre":"Nigeria",
+         "continente":"África",
+         "codigo_numerico":234
+      },
+      {
+         "nombre":"Republica Centroafricana",
+         "continente":"África",
+         "codigo_numerico":235
+      },
+      {
+         "nombre":"Sudafrica",
+         "continente":"África",
+         "codigo_numerico":236
+      },
+      {
+         "nombre":"Ruanda",
+         "continente":"África",
+         "codigo_numerico":237
+      },
+      {
+         "nombre":"Santo Tome Y Principe",
+         "continente":"África",
+         "codigo_numerico":238
+      },
+      {
+         "nombre":"Senegal",
+         "continente":"África",
+         "codigo_numerico":239
+      },
+      {
+         "nombre":"Seychelles",
+         "continente":"África",
+         "codigo_numerico":240
+      },
+      {
+         "nombre":"Sierra Leona",
+         "continente":"África",
+         "codigo_numerico":241
+      },
+      {
+         "nombre":"Somalia",
+         "continente":"África",
+         "codigo_numerico":242
+      },
+      {
+         "nombre":"Sudan",
+         "continente":"África",
+         "codigo_numerico":243
+      },
+      {
+         "nombre":"Swazilandia",
+         "continente":"África",
+         "codigo_numerico":244
+      },
+      {
+         "nombre":"Tanzania",
+         "continente":"África",
+         "codigo_numerico":245
+      },
+      {
+         "nombre":"Chad",
+         "continente":"África",
+         "codigo_numerico":246
+      },
+      {
+         "nombre":"Togo",
+         "continente":"África",
+         "codigo_numerico":247
+      },
+      {
+         "nombre":"Tunez",
+         "continente":"África",
+         "codigo_numerico":248
+      },
+      {
+         "nombre":"Uganda",
+         "continente":"África",
+         "codigo_numerico":249
+      },
+      {
+         "nombre":"Rep.Democratica Del Congo",
+         "continente":"África",
+         "codigo_numerico":250
+      },
+      {
+         "nombre":"Zambia",
+         "continente":"África",
+         "codigo_numerico":251
+      },
+      {
+         "nombre":"Zimbabwe",
+         "continente":"África",
+         "codigo_numerico":252
+      },
+      {
+         "nombre":"Eritrea",
+         "continente":"África",
+         "codigo_numerico":253
+      },
+      {
+         "nombre":"Santa Helena",
+         "continente":"África",
+         "codigo_numerico":260
+      },
+      {
+         "nombre":"Reunion",
+         "continente":"África",
+         "codigo_numerico":261
+      },
+      {
+         "nombre":"Mayotte",
+         "continente":"África",
+         "codigo_numerico":262
+      },
+      {
+         "nombre":"Sahara Occidental",
+         "continente":"África",
+         "codigo_numerico":263
+      },
+      {
+         "nombre":"Otros Paises O Territorios De Africa",
+         "continente":"África",
+         "codigo_numerico":299
+      },
+      {
+         "nombre":"Canada",
+         "continente":"América Del Norte",
+         "codigo_numerico":301
+      },
+      {
+         "nombre":"Estados Unidos De America",
+         "continente":"América Del Norte",
+         "codigo_numerico":302
+      },
+      {
+         "nombre":"Mexico",
+         "continente":"América Del Norte",
+         "codigo_numerico":303
+      },
+      {
+         "nombre":"San Pedro Y Miquelon ",
+         "continente":"América Del Norte",
+         "codigo_numerico":370
+      },
+      {
+         "nombre":"Groenlandia",
+         "continente":"América Del Norte",
+         "codigo_numerico":371
+      },
+      {
+         "nombre":"Otros Paises  O Territorios De America Del Norte",
+         "continente":"América Del Norte",
+         "codigo_numerico":396
+      },
+      {
+         "nombre":"Antigua Y Barbuda",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":310
+      },
+      {
+         "nombre":"Bahamas",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":311
+      },
+      {
+         "nombre":"Barbados",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":312
+      },
+      {
+         "nombre":"Belice",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":313
+      },
+      {
+         "nombre":"Costa Rica",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":314
+      },
+      {
+         "nombre":"Cuba",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":315
+      },
+      {
+         "nombre":"Dominica",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":316
+      },
+      {
+         "nombre":"El Salvador",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":317
+      },
+      {
+         "nombre":"Granada",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":318
+      },
+      {
+         "nombre":"Guatemala",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":319
+      },
+      {
+         "nombre":"Haiti",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":320
+      },
+      {
+         "nombre":"Honduras",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":321
+      },
+      {
+         "nombre":"Jamaica",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":322
+      },
+      {
+         "nombre":"Nicaragua",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":323
+      },
+      {
+         "nombre":"Panama",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":324
+      },
+      {
+         "nombre":"San Vicente Y Las Granadinas",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":325
+      },
+      {
+         "nombre":"Republica Dominicana",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":326
+      },
+      {
+         "nombre":"Trinidad Y Tobago",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":327
+      },
+      {
+         "nombre":"Santa Lucia",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":328
+      },
+      {
+         "nombre":"San Cristobal Y Nieves",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":329
+      },
+      {
+         "nombre":"Islas Caimán",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":380
+      },
+      {
+         "nombre":"Islas Turcas Y Caicos",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":381
+      },
+      {
+         "nombre":"Islas Vírgenes De Los Estados Unidos",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":382
+      },
+      {
+         "nombre":"Guadalupe",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":383
+      },
+      {
+         "nombre":"Antillas Holandesas",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":384
+      },
+      {
+         "nombre":"San Martin (parte Francesa)",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":385
+      },
+      {
+         "nombre":"Aruba",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":386
+      },
+      {
+         "nombre":"Montserrat",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":387
+      },
+      {
+         "nombre":"Anguilla",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":388
+      },
+      {
+         "nombre":"San Bartolome",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":389
+      },
+      {
+         "nombre":"Martinica",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":390
+      },
+      {
+         "nombre":"Puerto Rico",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":391
+      },
+      {
+         "nombre":"Bermudas",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":392
+      },
+      {
+         "nombre":"Islas Virgenes Britanicas",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":393
+      },
+      {
+         "nombre":"Otros Paises O Territorios Del Caribe Y America Central",
+         "continente":"Centro América Y Caribe",
+         "codigo_numerico":398
+      },
+      {
+         "nombre":"Argentina",
+         "continente":"Sudamérica",
+         "codigo_numerico":340
+      },
+      {
+         "nombre":"Bolivia",
+         "continente":"Sudamérica",
+         "codigo_numerico":341
+      },
+      {
+         "nombre":"Brasil",
+         "continente":"Sudamérica",
+         "codigo_numerico":342
+      },
+      {
+         "nombre":"Colombia",
+         "continente":"Sudamérica",
+         "codigo_numerico":343
+      },
+      {
+         "nombre":"Chile",
+         "continente":"Sudamérica",
+         "codigo_numerico":344
+      },
+      {
+         "nombre":"Ecuador",
+         "continente":"Sudamérica",
+         "codigo_numerico":345
+      },
+      {
+         "nombre":"Guyana",
+         "continente":"Sudamérica",
+         "codigo_numerico":346
+      },
+      {
+         "nombre":"Paraguay",
+         "continente":"Sudamérica",
+         "codigo_numerico":347
+      },
+      {
+         "nombre":"Peru",
+         "continente":"Sudamérica",
+         "codigo_numerico":348
+      },
+      {
+         "nombre":"Surinam",
+         "continente":"Sudamérica",
+         "codigo_numerico":349
+      },
+      {
+         "nombre":"Uruguay",
+         "continente":"Sudamérica",
+         "codigo_numerico":350
+      },
+      {
+         "nombre":"Venezuela",
+         "continente":"Sudamérica",
+         "codigo_numerico":351
+      },
+      {
+         "nombre":"Guayana Francesa",
+         "continente":"Sudamérica",
+         "codigo_numerico":394
+      },
+      {
+         "nombre":"Islas Malvinas",
+         "continente":"Sudamérica",
+         "codigo_numerico":395
+      },
+      {
+         "nombre":"Otros Paises O Territorios  De Sudamerica",
+         "continente":"Sudamérica",
+         "codigo_numerico":399
+      },
+      {
+         "nombre":"Afganistan",
+         "continente":"Asia",
+         "codigo_numerico":401
+      },
+      {
+         "nombre":"Arabia Saudi",
+         "continente":"Asia",
+         "codigo_numerico":402
+      },
+      {
+         "nombre":"Bahrein",
+         "continente":"Asia",
+         "codigo_numerico":403
+      },
+      {
+         "nombre":"Bangladesh",
+         "continente":"Asia",
+         "codigo_numerico":404
+      },
+      {
+         "nombre":"Myanmar",
+         "continente":"Asia",
+         "codigo_numerico":405
+      },
+      {
+         "nombre":"China",
+         "continente":"Asia",
+         "codigo_numerico":407
+      },
+      {
+         "nombre":"Emiratos Arabes Unidos",
+         "continente":"Asia",
+         "codigo_numerico":408
+      },
+      {
+         "nombre":"Filipinas",
+         "continente":"Asia",
+         "codigo_numerico":409
+      },
+      {
+         "nombre":"India",
+         "continente":"Asia",
+         "codigo_numerico":410
+      },
+      {
+         "nombre":"Indonesia",
+         "continente":"Asia",
+         "codigo_numerico":411
+      },
+      {
+         "nombre":"Iraq",
+         "continente":"Asia",
+         "codigo_numerico":412
+      },
+      {
+         "nombre":"Iran",
+         "continente":"Asia",
+         "codigo_numerico":413
+      },
+      {
+         "nombre":"Israel",
+         "continente":"Asia",
+         "codigo_numerico":414
+      },
+      {
+         "nombre":"Japon",
+         "continente":"Asia",
+         "codigo_numerico":415
+      },
+      {
+         "nombre":"Jordania",
+         "continente":"Asia",
+         "codigo_numerico":416
+      },
+      {
+         "nombre":"Camboya",
+         "continente":"Asia",
+         "codigo_numerico":417
+      },
+      {
+         "nombre":"Kuwait",
+         "continente":"Asia",
+         "codigo_numerico":418
+      },
+      {
+         "nombre":"Laos",
+         "continente":"Asia",
+         "codigo_numerico":419
+      },
+      {
+         "nombre":"Libano",
+         "continente":"Asia",
+         "codigo_numerico":420
+      },
+      {
+         "nombre":"Malasia",
+         "continente":"Asia",
+         "codigo_numerico":421
+      },
+      {
+         "nombre":"Maldivas",
+         "continente":"Asia",
+         "codigo_numerico":422
+      },
+      {
+         "nombre":"Mongolia",
+         "continente":"Asia",
+         "codigo_numerico":423
+      },
+      {
+         "nombre":"Nepal",
+         "continente":"Asia",
+         "codigo_numerico":424
+      },
+      {
+         "nombre":"Oman",
+         "continente":"Asia",
+         "codigo_numerico":425
+      },
+      {
+         "nombre":"Pakistan",
+         "continente":"Asia",
+         "codigo_numerico":426
+      },
+      {
+         "nombre":"Qatar",
+         "continente":"Asia",
+         "codigo_numerico":427
+      },
+      {
+         "nombre":"Corea",
+         "continente":"Asia",
+         "codigo_numerico":430
+      },
+      {
+         "nombre":"Corea Del Norte ",
+         "continente":"Asia",
+         "codigo_numerico":431
+      },
+      {
+         "nombre":"Singapur",
+         "continente":"Asia",
+         "codigo_numerico":432
+      },
+      {
+         "nombre":"Siria",
+         "continente":"Asia",
+         "codigo_numerico":433
+      },
+      {
+         "nombre":"Sri Lanka",
+         "continente":"Asia",
+         "codigo_numerico":434
+      },
+      {
+         "nombre":"Tailandia",
+         "continente":"Asia",
+         "codigo_numerico":435
+      },
+      {
+         "nombre":"Vietnam",
+         "continente":"Asia",
+         "codigo_numerico":437
+      },
+      {
+         "nombre":"Brunei",
+         "continente":"Asia",
+         "codigo_numerico":439
+      },
+      {
+         "nombre":"Islas Marshall",
+         "continente":"Asia",
+         "codigo_numerico":440
+      },
+      {
+         "nombre":"Yemen",
+         "continente":"Asia",
+         "codigo_numerico":441
+      },
+      {
+         "nombre":"Azerbaiyan",
+         "continente":"Asia",
+         "codigo_numerico":442
+      },
+      {
+         "nombre":"Kazajstan",
+         "continente":"Asia",
+         "codigo_numerico":443
+      },
+      {
+         "nombre":"Kirguistan",
+         "continente":"Asia",
+         "codigo_numerico":444
+      },
+      {
+         "nombre":"Tadyikistan",
+         "continente":"Asia",
+         "codigo_numerico":445
+      },
+      {
+         "nombre":"Turkmenistan",
+         "continente":"Asia",
+         "codigo_numerico":446
+      },
+      {
+         "nombre":"Uzbekistan",
+         "continente":"Asia",
+         "codigo_numerico":447
+      },
+      {
+         "nombre":"Islas Marianas Del Norte",
+         "continente":"Asia",
+         "codigo_numerico":448
+      },
+      {
+         "nombre":"Palestina",
+         "continente":"Asia",
+         "codigo_numerico":449
+      },
+      {
+         "nombre":"Hong Kong",
+         "continente":"Asia",
+         "codigo_numerico":450
+      },
+      {
+         "nombre":"Bhután",
+         "continente":"Asia",
+         "codigo_numerico":453
+      },
+      {
+         "nombre":"Guam",
+         "continente":"Asia",
+         "codigo_numerico":454
+      },
+      {
+         "nombre":"Macao",
+         "continente":"Asia",
+         "codigo_numerico":455
+      },
+      {
+         "nombre":"Otros Paises O Territorios De Asia",
+         "continente":"Asia",
+         "codigo_numerico":499
+      },
+      {
+         "nombre":"Australia",
+         "continente":"Oceanía",
+         "codigo_numerico":501
+      },
+      {
+         "nombre":"Fiji",
+         "continente":"Oceanía",
+         "codigo_numerico":502
+      },
+      {
+         "nombre":"Nueva Zelanda",
+         "continente":"Oceanía",
+         "codigo_numerico":504
+      },
+      {
+         "nombre":"Papua Nueva Guinea",
+         "continente":"Oceanía",
+         "codigo_numerico":505
+      },
+      {
+         "nombre":"Islas Salomon",
+         "continente":"Oceanía",
+         "codigo_numerico":506
+      },
+      {
+         "nombre":"Samoa",
+         "continente":"Oceanía",
+         "codigo_numerico":507
+      },
+      {
+         "nombre":"Tonga",
+         "continente":"Oceanía",
+         "codigo_numerico":508
+      },
+      {
+         "nombre":"Vanuatu",
+         "continente":"Oceanía",
+         "codigo_numerico":509
+      },
+      {
+         "nombre":"Micronesia",
+         "continente":"Oceanía",
+         "codigo_numerico":511
+      },
+      {
+         "nombre":"Tuvalu",
+         "continente":"Oceanía",
+         "codigo_numerico":512
+      },
+      {
+         "nombre":"Islas Cook",
+         "continente":"Oceanía",
+         "codigo_numerico":513
+      },
+      {
+         "nombre":"Nauru",
+         "continente":"Oceanía",
+         "codigo_numerico":515
+      },
+      {
+         "nombre":"Palaos",
+         "continente":"Oceanía",
+         "codigo_numerico":516
+      },
+      {
+         "nombre":"Timor Oriental",
+         "continente":"Oceanía",
+         "codigo_numerico":517
+      },
+      {
+         "nombre":"Polinesia Francesa",
+         "continente":"Oceanía",
+         "codigo_numerico":520
+      },
+      {
+         "nombre":"Isla Norfolk",
+         "continente":"Oceanía",
+         "codigo_numerico":521
+      },
+      {
+         "nombre":"Kiribati",
+         "continente":"Oceanía",
+         "codigo_numerico":522
+      },
+      {
+         "nombre":"Niue",
+         "continente":"Oceanía",
+         "codigo_numerico":523
+      },
+      {
+         "nombre":"Islas Pitcairn",
+         "continente":"Oceanía",
+         "codigo_numerico":524
+      },
+      {
+         "nombre":"Tokelau",
+         "continente":"Oceanía",
+         "codigo_numerico":525
+      },
+      {
+         "nombre":"Nueva Caledonia",
+         "continente":"Oceanía",
+         "codigo_numerico":526
+      },
+      {
+         "nombre":"Wallis Y Fortuna",
+         "continente":"Oceanía",
+         "codigo_numerico":527
+      },
+      {
+         "nombre":"Samoa Americana",
+         "continente":"Oceanía",
+         "codigo_numerico":528
+      },
+      {
+         "nombre":"Otros Paises O Territorios De Oceania",
+         "continente":"Oceanía",
+         "codigo_numerico":599
+      }
+   ]
+}
